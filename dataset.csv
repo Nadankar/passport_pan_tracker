@@ -1,0 +1,5 @@
+Age,Type,State,Verification_Status,Criminal_Record,Documents,Approval_Time
+25,Passport,Delhi,Completed,No,3,10
+30,PAN,Mumbai,Completed,No,2,5
+40,Passport,Pune,Incomplete,No,1,20
+22,PAN,Bangalore,Completed,Yes,2,15
